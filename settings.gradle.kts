@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Status Saver"
+rootProject.name = "SadSha Status Saver"
 include(":app")
  
